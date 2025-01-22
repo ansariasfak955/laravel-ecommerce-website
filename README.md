@@ -4,6 +4,8 @@ This project is a feature-rich **E-commerce platform** built using Laravel. It i
 
 ---
 
+<!-- Uploading "Screenshot from 2025-01-22 13-47-14.png"... -->
+
 ## Features
 
 ### 1. **Admin Role**
